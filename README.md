@@ -1,7 +1,7 @@
 ### Olá eu sou o Gabriel Coradini
 
 
-- 🔭 Sou desenvolvedor Full-Stack, mas trabalho atualmente com desenvolvimento web.
+- 🔭 Sou desenvolvedor Full-Stack, mas trabalho atualmente com desenvolvimento de backend.
 - 🌱 Estou aprendendo elixir  e goLang.
 <div>
   <a href="https://github.com/coradini0302">
